@@ -14,4 +14,4 @@ Play in the terminal by entering positions from 1–9.
 
 ---
 
-## run using c++ commands using any editor..
+## run the c++ commands using any editor..
